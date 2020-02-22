@@ -1,2 +1,2 @@
 # Azure
-my azure tips and trics
+my azure tips and tricks
